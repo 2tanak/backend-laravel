@@ -1,0 +1,11 @@
+Проект создовался на vagrant
+
+зайти в папку frontend и запустить команду npm install, затем для старта frontenda -  yarn dev
+
+создать любую базу и подключить
+выполнить миграции
+
+в корне сделать composer 
+
+зайти в папку frontend/keys/keys.js и вписать домен laravel
+
